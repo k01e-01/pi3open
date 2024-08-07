@@ -1,3 +1,9 @@
+# THIS IS CURRENTLY NOT FUNCTIONAL
+
+(because im lazy)
+
+---
+
 # pi3open
 
 a fake pishock api that converts incoming requests and forwards them to openshock
