@@ -1,6 +1,6 @@
 # pi3open
 
-a fake pishock api that converts incoming requests and forwards them to openshock
+a pishock to openshock api translation layer, for your masochistic and technically complex needs ^w^
 
 the api can be found at [https://pi3open.isso.moe/](https://pi3open.isso.moe/)
 
@@ -8,7 +8,7 @@ the api can be found at [https://pi3open.isso.moe/](https://pi3open.isso.moe/)
 
 if the pishock client allows you to change the endpoint yourself, simply set it to pi3open.isso.moe
 
-otherwise, use a dns masking utility like [dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) for macos and linux, or [Acrylic](https://mayakron.altervista.org/support/acrylic/Home.htm) for windows, and redirect dns requests to `do.pishock.com` to `pi3open.isso.moe`
+otherwise, use a dns masking utility like [dnsmasq](https://en.wikipedia.org/wiki/Dnsmasq) for macos and linux, or [Acrylic](https://mayakron.altervista.org/support/acrylic/Home.htm) for windows, and redirect dns requests from `do.pishock.com` to `pi3open.isso.moe`
 
 for the configuration of the pishock client
 - the username doesn't matter
