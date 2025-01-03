@@ -27,8 +27,7 @@ if your PiShock client has an `Api Endpoint` field, set it to `https://pi3open.i
 
 ### 3. redirect PiShock api calls to pi3open
 
-> note: HERE BE DRAGONS! unfortunately this step is quite difficult, and may require significant technical and debugging knowledge
-> note: good luck, please feel free to contact me @k01e on Discord if you encounter any issues
+> note: HERE BE DRAGONS! unfortunately this step is quite difficult, and may require significant technical and debugging knowledge, good luck, please feel free to contact me @k01e on Discord if you encounter any issues
 
 > note: if you have a possible solution to this problem, please contact me at @k01e on Discord
 
